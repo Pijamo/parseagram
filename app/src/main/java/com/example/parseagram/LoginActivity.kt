@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.util.Log
 import android.widget.Button
 import android.widget.EditText
+import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.parse.ParseUser
@@ -29,6 +30,7 @@ class LoginActivity : AppCompatActivity() {
         }
 
         findViewById<Button>(R.id.signupBtn).setOnClickListener {
+
             val userName = findViewById<EditText>(R.id.etUsername).text.toString()
             val password = findViewById<EditText>(R.id.etPassword).text.toString()
 

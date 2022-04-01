@@ -3,8 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Projects/parseagram/app/src/main/res/drawable/home.xml" value="0.207" />
+        <entry key="..\:/Projects/parseagram/app/src/main/res/drawable/new_compose.xml" value="0.207" />
+        <entry key="..\:/Projects/parseagram/app/src/main/res/drawable/ufi_save_icon.xml" value="0.207" />
+        <entry key="..\:/Projects/parseagram/app/src/main/res/drawable/user_profile.xml" value="0.207" />
         <entry key="..\:/Projects/parseagram/app/src/main/res/layout/activity_login.xml" value="0.20742753623188406" />
         <entry key="..\:/Projects/parseagram/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Projects/parseagram/app/src/main/res/layout/fragment_compose.xml" value="0.38333333333333336" />
+        <entry key="..\:/Projects/parseagram/app/src/main/res/layout/fragment_home.xml" value="0.38333333333333336" />
+        <entry key="..\:/Projects/parseagram/app/src/main/res/layout/item_post.xml" value="0.38333333333333336" />
+        <entry key="..\:/Projects/parseagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.38333333333333336" />
+        <entry key="..\:/Projects/parseagram/app/src/main/res/menu/toolbar.xml" value="0.19947916666666668" />
         <entry key="..\:/Projects/parseagram/app/src/main/res/xml/fileprovider.xml" value="0.1" />
       </map>
     </option>
